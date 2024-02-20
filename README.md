@@ -1,5 +1,5 @@
 ## Eae, João Flávio aqui
-- 📚Estudando Engenharia de Computação 4/10
+- 📚Estudando Engenharia de Computação 5/10
 
 <div align="center">
   <a href="https://github.com/JoaoFlavio11">
