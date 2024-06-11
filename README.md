@@ -2,7 +2,7 @@
 - 📚Estudando Engenharia de Computação 5/10 (Unisal - Lorena)
   
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&show_icons=true&theme=react&size_weight=0.15&count_weight=0.5&layout=compact"/>
 </div>
 
