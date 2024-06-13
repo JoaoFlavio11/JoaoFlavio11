@@ -1,9 +1,17 @@
 ## Eae, João Flávio aqui
 - 📚Estudando Engenharia de Computação 5/10 (Unisal - Lorena)
-  
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&show_icons=true&theme=react&size_weight=0.15&count_weight=0.5&layout=compact"/>
+
+<div align="center" style="display: flex; gap: 10px; width: 100%;">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&hide_border=true&langs_count=12&layout=compact&theme=react" />
+    <a href="https://github.com/JoaoFlavio11">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoFlavio11&theme=react" />
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/JoaoFlavio11">
+      <img width="70%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
+    </a>
 </div>
 
 <br>
@@ -42,6 +50,12 @@
    <img align="center" alt="JF-Windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
 -->
+
+<br>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=JoaoFlavio11&theme=react&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <br>
   
