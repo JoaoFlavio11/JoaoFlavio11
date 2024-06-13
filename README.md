@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://github.com/JoaoFlavio11">
-      <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
+      <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
     </a>
 </div>
 
