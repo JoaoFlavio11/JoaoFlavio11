@@ -1,5 +1,4 @@
-## Eae, João Flávio aqui
-- 📚Estudando Engenharia de Computação 5/10 (Unisal - Lorena)
+- 📚Estudando Engenharia de Computação 6/10 (Unisal - Lorena)
 
 <div align="center" style="display: flex; gap: 10px; width: 100%;">
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&hide_border=true&langs_count=12&layout=compact&theme=react" />
