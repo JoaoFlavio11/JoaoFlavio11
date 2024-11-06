@@ -18,14 +18,14 @@
 ## Linguagens de Programação e Frameworks
 
 ### Linguagens
-| Python | JavaScript | C |
-|--------|------|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+| Python | JavaScript | TypeScript | C |
+|--------|------------|------------|---|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
 
 ### Bibliotecas e Frameworks
 | Django | Pandas | Plotly | Matplotlib | Streamlit |
 |--------|--------|--------|------------|-----------|
-| <img width="55" height="55" alt="django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img width="55" height="55" alt="Plotly" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" /> | <img width="55" height="55" alt="Matplotlib" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /> | <img width="55" height="55" alt="Streamlit" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" /> |
+| <img width="55" height="55" alt="django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img width="55" height="55" alt="Plotly" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" /> | <img width="55" height="55" alt="Matplotlib" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /> | <img width="55" height="55" alt="Streamlit" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" /> |
 
 ### Desenvolvimento WEB
 | HTML | CSS | JavaScript | NodeJS |
