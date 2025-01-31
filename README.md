@@ -16,6 +16,40 @@
 <br>
 
 ## Linguagens de Programação e Frameworks
+<!--
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<!--
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+
+-->
 
 ### Linguagens
 | Python | JavaScript | TypeScript | C |
