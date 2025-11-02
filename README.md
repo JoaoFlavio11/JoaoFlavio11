@@ -102,7 +102,7 @@
 
 ## 📊 Outras estatísticas do GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
+<div align="center" style="display: flex; gap: 10px; width: 100%;">
     <img 
     align="left" 
     alt="GitHub Stats" 
