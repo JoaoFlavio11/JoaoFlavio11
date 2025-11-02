@@ -102,12 +102,11 @@
 
 ## 📊 Outras estatísticas do GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; width: 100%;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%;">
     <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react&hide_border=true&border_radius=5&include_all_commits=true&locale=pt-br" 
   />
 
