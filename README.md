@@ -1,102 +1,142 @@
-- 📚Estudando Engenharia de Computação 6/10 (Unisal - Lorena)
+# 📂João Flávio
+**`📚Estudante de Engenharia de Computação 8/10 (Unisal - Lorena)`**
+
+<div  style="display: inline_block" align="center"> 
+  <a href="https://github.com/JoaoFlavio11?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/JoaoFlavio11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/JoaoFlavio11?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/JoaoFlavio11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    
+  <a href="https://github.com/JoaoFlavio11?tab=followers">
+    <img 
+      src="https://komarev.com/ghpvc/?username=JoaoFlavio11&style=for-the-badge&color=blue" 
+      alt="Views no meu perfil"
+      title="Views github"
+    />
+  </a>
+</div>
 
 <div align="center" style="display: flex; gap: 10px; width: 100%;">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&hide_border=true&langs_count=12&layout=compact&theme=react" />
-    <a href="https://github.com/JoaoFlavio11">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoFlavio11&theme=react" />
+   <img 
+    height="200em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFlavio11&hide_border=true&langs_count=12&layout=compact&theme=react" 
+   />
+    <a 
+      href="https://github.com/JoaoFlavio11">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoFlavio11&theme=react" />
     </a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/JoaoFlavio11">
-      <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
-    </a>
+---
+
+## 🚧 Minhas stacks favoritas:
+
+<div  style="display: inline_block">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+                    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="Typescript" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" alt="JavaScript" width="35" height="35"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Javascript" alt="JavaScript" width="35" height="35"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vite" alt="JavaScript" width="35" height="35"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+                              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>      
+              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+          
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>        
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="React" width="35" height="35"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  title="django" alt="React" width="35" height="35"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="NextJS" alt="JavaScript" width="35" height="35"/>
+        
 </div>
 
-<br>
+---
 
-## Linguagens de Programação e Frameworks
-<!--
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<!--
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src=" " title="JavaScript" alt="JavaScript" width="35" height="35"/>
+## 📊 Outras estatísticas do GitHub
 
--->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; width: 100%;">
+    <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react&hide_border=true&border_radius=5&include_all_commits=true&locale=pt-br" 
+  />
 
-### Linguagens
-| Python | JavaScript | TypeScript | C |
-|--------|------------|------------|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
-
-### Bibliotecas e Frameworks
-| Django | Pandas | Plotly | Matplotlib | Streamlit |
-|--------|--------|--------|------------|-----------|
-| <img width="55" height="55" alt="django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" /> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img width="55" height="55" alt="Plotly" src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" /> | <img width="55" height="55" alt="Matplotlib" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" /> | <img width="55" height="55" alt="Streamlit" src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" /> |
-
-### Desenvolvimento WEB
-| HTML | CSS | JavaScript | NodeJS |
-|------|-----|------------|--------|
-| <img width="55" height="55" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/> | <img width="55" height="55" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img width="55" height="55" alt="NodeJS" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/> |
-
-### Sistemas Operacionais:
-| Windows | Ubuntu |
-|---------|--------|
-| <img width="55" height="55" alt="Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" /> | <img width="55" height="55" alt="Windows" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"/> |
-
-<!--
-<div style="display: inline_block"><br>
-   <img align="center" alt="JF-HTML" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center" alt="JF-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-   <img align="center" alt="JF-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="JF-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img align="center" alt="JF-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="JF-VScode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="JF-Linux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" alt="JF-Windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  <img 
+    src="https://streak-stats.demolab.com?user=JoaoFlavio11&theme=react&hide_border=true&border_radius=5" 
+    alt="GitHub Streak"
+  />
 </div>
--->
 
-<br>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=JoaoFlavio11&theme=react&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-<br>
   
 <div>
   <a href="https://www.instagram.com/joaoflavio_cl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/joaoflaviocl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-fl%C3%A1vio-lopes-896784289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   <a href = "mailto:joaoflaviocl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img src="https://komarev.com/ghpvc/?username=JoaoFlavio11&style=for-the-badge&color=blue" alt=""/>
+
 </div>
+  
+
+<!-- 
+  <div align="center">
+      <a href="https://github.com/JoaoFlavio11">
+        <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
+      </a>
+  </div> 
+
+
+<br>
+
+-->
 
   
