@@ -102,21 +102,16 @@
 
 ## 📊 Outras estatísticas do GitHub
 
-<div align="center" style="display: flex; gap: 10px; width: 100%;">
-    <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoFlavio11&show_icons=true&theme=react&hide_border=true&border_radius=5&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; width: 100%;">
+    =
+  <img   
     src="https://streak-stats.demolab.com?user=JoaoFlavio11&theme=react&hide_border=true&border_radius=5" 
     alt="GitHub Streak"
+    height="220" 
   />
 </div>
 
-
+<br>
   
 <div>
   <a href="https://www.instagram.com/joaoflavio_cl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
