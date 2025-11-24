@@ -39,7 +39,7 @@
 
 ---
 
-## 🚧 Minhas stacks favoritas:
+## 🚧 Tecnologias favoritas:
 
 <div  style="display: inline_block">
 
