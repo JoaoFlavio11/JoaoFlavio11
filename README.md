@@ -81,8 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="NextJS" alt="NextJS" width="35" height="35"/>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" title="portainer" alt="JavaportainerScript" width="35" height="35"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="sass" alt="sass" width="35" height="35"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="35" height="35"/>        
           
