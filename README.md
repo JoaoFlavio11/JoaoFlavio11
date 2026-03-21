@@ -1,5 +1,5 @@
 # 📂João Flávio
-**`📚Estudante de Engenharia de Computação 8/10 (Unisal - Lorena)`**
+**`📚Estudante de Engenharia de Computação 9/10 (Unisal - Lorena)`**
 
 <div  style="display: inline_block" align="center"> 
   <a href="https://github.com/JoaoFlavio11?tab=followers">
@@ -101,7 +101,7 @@
 ## 📊 Outras estatísticas do GitHub
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; width: 100%;">
-    =
+    
   <img   
     src="https://streak-stats.demolab.com?user=JoaoFlavio11&theme=react&hide_border=true&border_radius=5" 
     alt="GitHub Streak"
@@ -111,7 +111,7 @@
 
 <br>
   
-<div>
+<div align="center ">
   <a href="https://www.instagram.com/joaoflavio_cl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-fl%C3%A1vio-lopes-896784289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   <a href = "mailto:joaoflaviocl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -119,8 +119,8 @@
 </div>
   
 
-<!-- 
-  <div align="center">
+ <!--
+  <div align="center" style="margin-top:10pc;>
       <a href="https://github.com/JoaoFlavio11">
         <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoFlavio11&theme=react" />
       </a>
@@ -129,6 +129,8 @@
 
 <br>
 
+
+<a href="https://app.rocketseat.com.br/me/joaoflavio-cl"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=joaoflavio-cl&type=card" width="280" alt="João Flávio C. Lopes's Rocket ID"/></a>
 -->
 
   
