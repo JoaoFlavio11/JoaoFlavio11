@@ -1,31 +1,17 @@
 # 📂João Flávio
-**`📚Estudante de Engenharia de Computação 9/10 (Unisal - Lorena)`**
+**`📚Estudante de Engenharia de Computação 10/10 (Unisal - Lorena)`**
 
-<div  style="display: inline_block" align="center"> 
-  <a href="https://github.com/JoaoFlavio11?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/JoaoFlavio11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/JoaoFlavio11?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoaoFlavio11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    
-  <a href="https://github.com/JoaoFlavio11?tab=followers">
-    <img 
-      src="https://komarev.com/ghpvc/?username=JoaoFlavio11&style=for-the-badge&color=blue" 
-      alt="Views no meu perfil"
-      title="Views github"
-    />
-  </a>
+<div align="center"> 
+  <a href="https://joaoflavio.cloud" target="_blank"><img src="https://img.shields.io/badge/Meu_Site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="meu site" /></a>
+  <a href="https://github.com/JoaoFlavio11?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/JoaoFlavio11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
+  <a href="https://github.com/JoaoFlavio11?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JoaoFlavio11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
+  <a href="https://github.com/JoaoFlavio11?tab=followers"><img src="https://komarev.com/ghpvc/?username=JoaoFlavio11&style=for-the-badge&color=blue" alt="Views no meu perfil" title="Views github" /></a>
+  <a href="https://www.instagram.com/joaoflavio_cl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joaoflaviocl/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joaoflaviocl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
+<!--
 <div align="center" style="display: flex; gap: 10px; width: 100%;">
    <img 
     height="200em" 
@@ -38,6 +24,9 @@
 </div>
 
 ---
+
+-->
+<br/>
 
 ## 🚧 Tecnologias favoritas:
 
@@ -96,6 +85,8 @@
         
 </div>
 
+
+<!--
 ---
 
 ## 📊 Outras estatísticas do GitHub
@@ -108,15 +99,7 @@
     height="220" 
   />
 </div>
-
-<br>
-  
-<div align="center ">
-  <a href="https://www.instagram.com/joaoflavio_cl/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-fl%C3%A1vio-lopes-896784289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  <a href = "mailto:joaoflaviocl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
+-->
   
 
  <!--
